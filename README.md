@@ -1,7 +1,7 @@
 ### Hey,[Dani here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://www.linkedin.com/in/daniel-fernandez-mateos-11aa72231/)](https://www.linkedin.com/in/daniel-fernandez-mateos-11aa72231/) [![Gmail Badge](https://img.shields.io/badge/-danielfernandezmateos03@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielfernandezmateos03@gmail.com)](mailto:danielfernandezmateos03@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-fernandez-mateos-11aa72231/)
+[![Gmail Badge](https://img.shields.io/badge/-danielfernandezmateos03@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielfernandezmateos03@gmail.com)](mailto:danielfernandezmateos03@gmail.com)
 
 ## :computer: Technologies I Love
 * Machine Learning
@@ -39,6 +39,6 @@
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=Dani2oo3&show_icons=true&hide=[%22issues%22])
 
  -------
-Credits: [MarikIshtar007](https://github.com/Dani2oo3)
+Credits: [Dani2oo3](https://github.com/Dani2oo3)
 
-Last Edited on: 18/12/2020
+Last Edited on: 04/12/2024
