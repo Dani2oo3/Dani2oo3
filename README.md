@@ -1,44 +1,23 @@
-### Hey,[Dani here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Dani 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-fernandez-mateos-11aa72231/)
-[![Gmail Badge](https://img.shields.io/badge/-danielfernandezmateos03@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielfernandezmateos03@gmail.com)](mailto:danielfernandezmateos03@gmail.com)
+I'm a fourth-year Computer Engineering student at Universidad Rey Juan Carlos, graduating in 2027, looking for an internship in **AI, Machine Learning, Data Science, or Data Engineering**. My experience so far is primarily academic, and I'm motivated to keep learning while contributing to real-world engineering work.
 
-## :computer: Technologies I Love
-* Machine Learning
-* Data Science
-* Backend Web Development
+## 🛠️ Technologies
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dani2oo3&layout=compact">
+- **Programming languages:** Java, Python, C/C++, JavaScript, TypeScript
+- **Data:** SQL
+- **Web:** HTML, CSS
 
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+## 📌 Featured project
 
-## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Daniel Fernandez Mateos'
-	current_edu = "Universidad Rey Juan Carlos Computer Engineering"
-	hobbies = [
-				'Futsal',
-				'Watching films',
-				'Staying up all night chasing that one bug...'
-			]
-	
-	def getCity():
-		return Madrid_Espana()
-	
-	def Ambitions():
-		LearnItalian()
-		CreateProgrammingPortfolio()
-		FinishMyDegree()
-	
- ```
+- [**segmentacion**](https://github.com/Dani2oo3/segmentacion) — Academic project related to a MIPS simulator.
 
- ## Other Stuff
+## 🎯 Career goals
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=Dani2oo3&show_icons=true&hide=[%22issues%22])
+I aim to build a strong foundation in AI and data engineering, deepen my practical skills, and contribute to a team through an internship.
 
- -------
-Credits: [Dani2oo3](https://github.com/Dani2oo3)
+## 🤝 Contact
 
-Last Edited on: 04/12/2024
+- [GitHub](https://github.com/Dani2oo3)
+- [LinkedIn](https://www.linkedin.com/in/daniel-fernandez-mateos-11aa72231/)
+- [Email](mailto:danielfernandezmateos03@gmail.com)
